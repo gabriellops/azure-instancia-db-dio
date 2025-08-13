@@ -10,7 +10,6 @@ O objetivo foi explorar os diferentes tipos de serviços de banco de dados dispo
 - Criar e configurar instâncias de banco de dados na Azure.
 - Explorar os diferentes modelos de banco de dados disponíveis na nuvem.
 - Aprender práticas de segurança e otimização de desempenho.
-- Integrar a instância de banco de dados com uma aplicação .NET.
 
 ---
 
